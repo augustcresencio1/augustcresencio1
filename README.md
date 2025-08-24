@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 I'm August Kristopher M. Cresencio
 
-<!--
-**augustcresencio1/augustcresencio1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSIT Student at Laguna State Polytechnic University (Main Campus) from Nagcarlan, Laguna, Philippines.
 
-Here are some ideas to get you started:
+🌱 Currently learning C# and Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 To improve my programming skills and become a skilled web and app developer
+
+💡 Interested in Web Development, and Mobile Applications
+
+### 🚀 Skills
+
+- Languages: Python, C#
+
+### 📬 Connect with Me
+
+Email: augustcresencio022@gmail.com
+
+📞 09629155191
